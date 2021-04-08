@@ -14,6 +14,9 @@
   </p>
 </p>
 
+## Evaluation
+Status: Finished<br/>Grade: 115/100
+
 ## Contact
 This is my libft project from the 42 cursus, need help:
 raccoman@student.42roma.it
@@ -25,15 +28,11 @@ raccoman@student.42roma.it
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/raccoman/libft?style=for-the-badge
 [contributors-url]: https://github.com/raccoman/libft/graphs/contributors
-
 [forks-shield]: https://img.shields.io/github/forks/raccoman/libft?style=for-the-badge
 [forks-url]: https://github.com/raccoman/libft/network/members
-
 [stars-shield]: https://img.shields.io/github/stars/raccoman/libft?style=for-the-badge
 [stars-url]: https://github.com/raccoman/libft/stargazers
-
 [issues-shield]: https://img.shields.io/github/issues/raccoman/libft?style=for-the-badge
 [issues-url]: https://github.com/raccoman/libft/issues
-
 [license-shield]: https://img.shields.io/github/license/raccoman/libft?style=for-the-badge
 [license-url]: https://github.com/raccoman/libft/blob/master/LICENSE.txt
