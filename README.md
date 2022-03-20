@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://badge42.herokuapp.com/api/stats/raccoman?privacyEmail=true"/>
+  <img src="https://badge42.vercel.app/api/v2/stats/cl0z8sbuu001509jthfclxpdu?cursusId=21"/>
+<!--   <img src="https://badge42.herokuapp.com/api/stats/raccoman?privacyEmail=true"/> -->
 </p>
 <h3 align="center">
   LIBFT
