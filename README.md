@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://badge42.vercel.app/api/v2/stats/cl0z8sbuu001509jthfclxpdu?cursusId=21"/>
-<!--   <img src="https://badge42.herokuapp.com/api/stats/raccoman?privacyEmail=true"/> -->
+  <img src="https://badge42.vercel.app/api/v2/cl0z8sbuu001509jthfclxpdu/stats?cursusId=21&coalitionId=125"/>
 </p>
 <h3 align="center">
   LIBFT
@@ -21,7 +20,7 @@
   Evaluation
 </h2>
 <p align="center">
-  <img src="https://badge42.herokuapp.com/api/project/raccoman/Libft"/>
+  <img src="https://badge42.vercel.app/api/v2/cl0z8sbuu001509jthfclxpdu/project/2066459"/>
 </p>
 
 <h2 align="center">
